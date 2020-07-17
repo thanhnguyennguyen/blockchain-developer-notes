@@ -10,3 +10,5 @@
 - [What is ERC20 ?](https://medium.com/blockchannel/the-anatomy-of-erc20-c9e5c5ff1d02)
 - [What is ERC721 ?](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24)
 - [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
+- Solidity
+  - [What's new in Solidity 0.6 ?](https://github.com/thanhnguyennguyen/tomochain/tree/solidity-0.6-testing/contracts/solidity_0.6)
