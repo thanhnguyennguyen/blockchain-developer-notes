@@ -12,3 +12,7 @@
 - [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 - Solidity
   - [What's new in Solidity 0.6 ?](https://github.com/thanhnguyennguyen/tomochain/tree/solidity-0.6-testing/contracts/solidity_0.6)
+
+
+## Other blockchains
+[Cryptography behind top 20 cryptocurrencies](https://www.susanka.eu/coins-crypto/)
